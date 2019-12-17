@@ -1,0 +1,1 @@
+# mule-objectstore-rest-example
